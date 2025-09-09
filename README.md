@@ -38,8 +38,8 @@ library(doParallel)
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/immunoassay-analysis.git
-cd immunoassay-analysis
+git clone https://github.com/khoshfekr1994/immunoassay.git
+cd immunoassay
 ```
 
 2. Install required R packages:
